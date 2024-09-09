@@ -50,7 +50,7 @@ if (special.checked) {
   specPas = "~!@#№$%^&"; 
 }
 if (chars.checked) { 
-  charsPas = "+-*/(){}"; 
+  charsPas = "+-*/(){}="; 
 }
 
 // Визначаємо доступні категорії
